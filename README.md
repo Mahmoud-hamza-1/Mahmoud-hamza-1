@@ -32,11 +32,14 @@ that make the app so high quality.
 
 -  🔄 Dealing with http and Dio : Proficient in dealing with HTTP and Dio for network requests.
 
-<img src ="https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/1.mp4" width="256" >
-<img src ="https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/2.mp4" width="256" >
-<img src ="https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/3.mp4" width="256" >
-<img src ="https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/4.mp4" width="256" >
-<img src ="https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/5.mp4" width="256" >
+## Video Demos
+
+[Watch Video 1](https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/1.mp4)
+[Watch Video 2](https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/2.mp4)
+[Watch Video 3](https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/3.mp4)
+[Watch Video 4](https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/4.mp4)
+[Watch Video 5](https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/5.mp4)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mahmoud-hamza-1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahmoud-hamza-1b237a251/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mahmoud.hamza.12139862?mibextid=2JQ9oc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mahmoud_hamza_0?igsh=MXA2YnV0ZDk3NGsxbA==/)  
 
 
