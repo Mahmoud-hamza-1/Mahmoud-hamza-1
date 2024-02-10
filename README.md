@@ -29,7 +29,7 @@ that make the app so high quality.
 - **Working Under Pressure**: Comfortable and effective in working under pressure to meet deadlines.
 
 - **Effective Communication**: Strong communication skills for clear and efficient collaboration.
-- **Dealing with http and Dio**
+- **Dealing with http and Dio**.
 
 - 🔭 I’m currently working on Mobile App Project  
 - 🌱 I’m currently learning back-end  
