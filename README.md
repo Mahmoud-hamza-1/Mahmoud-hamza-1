@@ -1,6 +1,9 @@
 ### Hi there 👋, Mahmoud Hamza
 #### I'm Mobile App Developer
-![I'm Mobile App Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm Mobile App Developer](https://i0.wp.com/dartandflutter.com/wp-content/uploads/2022/11/logo.png)
+
+
+
 
 Expert Mobile App Developer building production-level mobile application with +2 years of experience, Proficient of Dart programming and Flutter framework, with in-depth understanding of mobile app architecture and UI/UX principles. High experience in optimizing app performance, Collaborative mindset with excellent problem-solving skills, and staying updated with mobile app development trends, with high experience making cool animations 
 that make the app so high quality. 
