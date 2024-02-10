@@ -9,11 +9,12 @@ Expert Mobile App Developer building production-level mobile application with +2
 that make the app so high quality. 
 
 Skills: 
-• Git.                • Dealing with (Getx – bloc – Http – dio) 
-• Firebase            • problem solving
-• Dealing with API.   • Knowledge of Html , CSS , js
-• Creative design     • Ability to innovate  • Effective communication ability 
-• Work under pressure 
+- Git.                   - Dealing with (Getx – bloc – Http – dio) 
+- Firebase               - problem solving
+- Dealing with API.      - Knowledge of Html , CSS , js
+- Creative design        - Ability to innovate
+-  Work under pressure   -  Effective communication ability
+
 
 - 🔭 I’m currently working on Mobile App Project  
 - 🌱 I’m currently learning back-end  
