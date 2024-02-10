@@ -8,12 +8,50 @@ Mahmoud Hamza 👋
 Expert Mobile App Developer building production-level mobile application with +2 years of experience, Proficient of Dart programming and Flutter framework, with in-depth understanding of mobile app architecture and UI/UX principles. High experience in optimizing app performance, Collaborative mindset with excellent problem-solving skills, and staying updated with mobile app development trends, with high experience making cool animations 
 that make the app so high quality. 
 
-Skills: 
-* Git                    * Dealing with (Getx – bloc – Http – dio) 
-* Firebase               * problem solving
-* Dealing with API.      * Knowledge of Html , CSS , js
-* Creative design        * Ability to innovate
-*  Work under pressure   *  Effective communication ability
+# Project Title
+
+## Overview
+
+Brief description of the project.
+
+## Skills
+
+- **Git**: Proficient in version control using Git.
+
+- **Flutter State Management**: Experienced in using GetX, BLoC, Http, Dio for efficient state management in Flutter applications.
+
+- **Firebase**: Familiar with Firebase services for backend development and integration.
+
+- **API Integration**: Capable of working with various APIs for data retrieval and manipulation.
+
+- **Web Technologies**: Knowledgeable in HTML, CSS, and JavaScript for web development.
+
+- **Creative Design**: Adept at creative design principles for visually appealing user interfaces.
+
+- **Innovation**: Demonstrates the ability to innovate and find creative solutions to challenges.
+
+- **Problem Solving**: Strong problem-solving skills to address complex issues efficiently.
+
+- **Working Under Pressure**: Comfortable and effective in working under pressure to meet deadlines.
+
+- **Effective Communication**: Strong communication skills for clear and efficient collaboration.
+
+## Usage
+
+Instructions on how to use or contribute to the project.
+
+## Installation
+
+Step-by-step guide for installing and setting up the project locally.
+
+## Contributing
+
+Guidelines for contributing to the project.
+
+## License
+
+This project is licensed under [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+
 
 
 - 🔭 I’m currently working on Mobile App Project  
