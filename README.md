@@ -36,14 +36,9 @@ that make the app so high quality.
   <img src= "https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/login.gif" width ="256"/>  <img src= "https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/Media_240211_190211.gif" width ="256"/>  <img src= "https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/Media_240211_185907.gif" width ="256"/>
   
 
- 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/Mahmoud-hamza-1){: style="color: blue;"}
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/mahmoud-hamza-1b237a251/){: style="color: blue;"}
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/mahmoud.hamza.12139862?mibextid=2JQ9oc){: style="color: blue;"}
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/mahmoud_hamza_0?igsh=MXA2YnV0ZDk3NGsxbA==/){: style="color: blue;"}
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahmoud-hamza-1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmoud-hamza-1b237a251/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahmoud.hamza.12139862?mibextid=2JQ9oc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahmoud_hamza_0?igsh=MXA2YnV0ZDk3NGsxbA==/)  
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-hamza-1&theme=dark&show_icons=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-hamza-1)](https://github.com/anuraghazra/github-readme-stats)
