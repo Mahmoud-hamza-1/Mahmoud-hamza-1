@@ -33,7 +33,7 @@ that make the app so high quality.
 -  🔄 Dealing with http and Dio : Proficient in dealing with HTTP and Dio for network requests.
  
   ## Examples of Work :
-  <img src= "https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/login.gif" width ="256"/><img src= "https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/login.gif" width ="256"/>
+  <img src= "https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/login.gif" width ="256"/>  <img src= "https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/login.gif" width ="256"/>  <img src= "https://github.com/Mahmoud-hamza-1/Mahmoud-hamza-1/blob/main/login.gif" width ="256"/>
   
  
   
